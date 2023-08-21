@@ -19,19 +19,13 @@ To set up the project, follow these steps:
 
 git clone https://github.com/Jahsil/eyus-blog.git
 
-Copy code
-
 2. Navigate to the project directory.
 
 cd eyus-blog
 
-Copy code
-
 3. Install the required dependencies using NPM.
 
 npm install
-
-Copy code
 
 ### Running the Application
 
@@ -41,15 +35,11 @@ To run the application, follow these steps:
 
 npx json-server --watch src/data/db.json --port 8000
 
-Copy code
-
 The JSON server will run on `http://localhost:8000/blogs`.
 
 2. In a separate terminal, start the React development server.
 
 npm run dev
-
-Copy code
 
 The React application will open in your default web browser at `http://localhost:5173`.
 
