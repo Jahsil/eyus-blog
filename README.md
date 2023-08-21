@@ -63,5 +63,3 @@ The Blog Project utilizes the following technologies:
 ### Conclusion
 
 The Blog Project is a React application that demonstrates CRUD operations on a JSON server, allowing users to create, read, and delete blog posts.
-
-Created by Eyouel Kibret
